@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+header{
+	background-color: #010103;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+header h1{
+	color:  #7ec5ed;
+	font-size: 40px;
+
+}
+
+header img{
+	border-radius: 150px;
+	width:  300px;
+	border:  3px double #7ec5ed;
+}
